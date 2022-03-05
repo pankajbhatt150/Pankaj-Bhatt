@@ -1,5 +1,5 @@
 👨🏻‍💻  About Me
-Night Coding
+learning Coding
 
 🎓  I'm currently studying Computer Science and  Engineering at Galgotias University,Greater Noida, UttarPradesh.
 💡  Some technologies I enjoy working HTML, JavaScript, CSS . Currently Learning DSA.
